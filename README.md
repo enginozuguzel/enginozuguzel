@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enginozuguzel
 - 👀 I’m interested in game developer
-- 🌱 I’m currently learning C# and Unity
+- 🌱 I’m learning always C# and Unity
 - 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me enginozuguzel@gmail.com
 
